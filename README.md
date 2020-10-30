@@ -13,7 +13,7 @@
 | clear or ⌃L | Clear screen | $ clear |  
 | exit or ⌃D | Exit terminal | $ exit |
 | ^R | Search command history | |
-
+| !curl, !cu, !c | Run last curl command | |
 
 
 		
