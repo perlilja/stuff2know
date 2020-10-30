@@ -12,6 +12,7 @@
 | Up & down arrow | Scroll through previous commands |   |
 | clear or ⌃L | Clear screen | $ clear |  
 | exit or ⌃D | Exit terminal | $ exit |
+| ^R | Search command history | |
 
 
 
