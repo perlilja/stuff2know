@@ -16,8 +16,12 @@
 | !curl, !cu, !c | Run last curl command | |
 
 
+## Less command
 		
-		
+| Command  | Description  |
+|----------|--------------|
+| Ctrl+P | Forward one page |
+| Ctrl+B | Back one page |
 		
 		
 	
