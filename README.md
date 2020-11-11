@@ -20,8 +20,16 @@
 		
 | Command  | Description  |
 |----------|--------------|
-| Ctrl+P | Forward one page |
-| Ctrl+B | Back one page |
+| up & down arrow keys | Move up or down one line |	
+| spacebar | Move forward one page |	
+| ⌃F | Move forward one page |	
+| ⌃B | Move back one page |	
+| G | Move to end of file |	
+| 1G | Move to beginning of file |	
+| /<string> | Search file for string /rose |
+| n | Move to next search result |
+| N | Move to previous search result |
+| q | Quit less |
 		
 		
 	
